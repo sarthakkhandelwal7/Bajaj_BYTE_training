@@ -1,0 +1,9 @@
+{
+	"name": "byte-training",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a7c3a95a-49c4-43bd-926f-7b65588454ea",
+		"tenantId": "d7cfbc3b-5250-4333-bf2d-bff83bf2ff17"
+	}
+}
